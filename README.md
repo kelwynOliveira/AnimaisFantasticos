@@ -6,4 +6,4 @@ The project uses JavaScript to interact with DOM, fetch APIs, front-en automatio
 
 [Project webpage](https://kelwynoliveira.github.io/AnimaisFantasticos/)
 
-[![](./thumb.PNG)](https://kelwynoliveira.github.io/AnimaisFantasticos/)
+[![](./thumb.jpg)](https://kelwynoliveira.github.io/AnimaisFantasticos/)
